@@ -31,9 +31,11 @@ if ($minutes > 60){
 
 
 
+// echo the username, content, and time since posted
 
-
-  echo "<div style='background-color: #d897c3; border: 0.5px solid maroon; padding: 10px;'><span style='color: red; margin-left: 10px;'> ".$row["username"]."</span>:&nbsp;&nbsp;".$row["content"]. "&ensp;&ensp;&ensp;<i>".$minutes." </i></div></br>";
+  echo "<div style='background-color: #d897c3; border: 0.5px solid maroon; padding: 10px;'><span style='color: 
+  red; margin-left: 10px;'> ".$row["username"]."</span>:&nbsp;&nbsp;".$row["content"]. "&ensp;&ensp;&ensp;<i>".$minutes." 
+  </i></div></br>";
 
 }
 
