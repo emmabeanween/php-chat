@@ -1,2 +1,2 @@
 # php-chat
-A very simple php chat that uses a short snippet of our good friends AJAX + jquery.
+A very simple php chat that uses a short snippet of AJAX + JQuery to load chat messages without refreshing the page.
